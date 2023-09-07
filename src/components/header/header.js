@@ -2,7 +2,6 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import '../header/header.css';
 import 'bootstrap-icons/icons/toggle-off.svg';
-import '../header/darkMode.css';
 import { createContext } from "react";
 import ReactSwitch from "react-switch";
 import { useDispatch } from 'react-redux';
