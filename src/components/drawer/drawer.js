@@ -118,7 +118,7 @@ export default function PersistentDrawerLeft() {
 
                     </Typography>
                     <div className="switch">
-                    <Switch onChange={() => dispatch(setMode())} {...label} defaultChecked />
+                    <Switch onChange={() => dispatch(setMode())} {...label} defaultChecked color="default" />
 
                         
                     </div>
